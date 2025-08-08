@@ -1,7 +1,7 @@
 import sys, os, json, requests
 
 HISTORY_FILE = "chat_history.json"
-API_URL = "http://localhost:11434/api/chat"
+API_URL = "http://localhost:11434/api/chat" # Default Ollama API URL
 MODEL = "qwen3:14b"
 STREAM_ARG = "--stream-disabled"
 

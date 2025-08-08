@@ -1,4 +1,4 @@
-# Simple CLI Ollama chat client
+# Simple Ollama chat client CLI
 
 ## What is this
 Ollama doesn't have built-in memory persistence. Which means it doesn't remember the conversation we had.  
